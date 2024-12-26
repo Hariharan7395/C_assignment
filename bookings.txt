@@ -1,0 +1,3 @@
+Booking ID: 1 | Train ID: 1 | Name: Hariharan | Age: 22 | Coach: General | Price: 500.00
+Booking ID: 2 | Train ID: 2 | Name: Kishore | Age: 25 | Coach: Sleeper | Price: 900.00
+Booking ID: 3 | Train ID: 3 | Name: Kaviya | Age: 18 | Coach: General | Price: 400.00
